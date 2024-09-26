@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #FF000B;
+  font-family: "Kanit", system-ui;
+  color: white;
+  font-size:30px
+}
+
+input[type="checkbox"]{  
+  transform: scale(2);
+  margin-right:30px;
+}
+
+input[type="checkbox"]{
+  font-size: 30px;
+  width:230px;
+  border-radius:200px;
+  border:solid 4px ;
+}
+.hidden{
+  display: none;
+}
+
+.botao{
+  background-color: rgb(17,17,15);
+  font-family: "Kanit", system-ui;
+  color:white;
+  border:2px solid rgb(45,241,45);
+  border-radius: 200px;
+  font-size: 25px;
+  
+}
+
+.botao:hover{
+  background-color:#FFEB3B;
+  border:solid 2px #FFEB3B;
+}
+
+FONTE TÍTULO font-family: "Kanit", system-ui;
+FONTE CORPO font-family: "Playwrite CU", system-ui;
